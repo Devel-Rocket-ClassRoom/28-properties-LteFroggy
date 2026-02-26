@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="Rectangle\Rectangle.csproj" />
+  <Project Path="BankAccount\BankAccount.csproj" />
+  <Project Path="Student\Student.csproj" />
+</Solution>
